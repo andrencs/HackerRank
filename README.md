@@ -27,9 +27,10 @@ This repository serves as a **centralized collection** of my solutions to Hacker
 
 ## 📝 Solutions List
 
-| #   | Challenge                                                                          | Solution                                                     |
-| --- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| 1   | [Fibonacci Modified](https://hackerrank.com/challenges/fibonacci-modified/problem) | [Solution Link](./Dynamic%20programing/FibonacciModified.ts) |
+| #   | Challenge                                                                   | Solution                                                     |
+| --- | --------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 1   | [Fibonacci Modified](https://hackerrank.com/challenges/fibonacci-modified/) | [Solution Link](./Dynamic%20programing/FibonacciModified.ts) |
+| 2   | [Common Child](https://www.hackerrank.com/challenges/common-child/)         | [Solution Link](./String/CommonChild.ts)                     |
 
 _(More solutions will be added regularly!)_
 

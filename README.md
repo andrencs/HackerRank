@@ -30,8 +30,9 @@ This repository serves as a **centralized collection** of my solutions to Hacker
 | #   | Challenge                                                                   | Solution                                                     |
 | --- | --------------------------------------------------------------------------- | ------------------------------------------------------------ |
 | 1   | [Fibonacci Modified](https://hackerrank.com/challenges/fibonacci-modified/) | [Solution Link](./Dynamic%20programing/FibonacciModified.ts) |
-| 2   | [Common Child](https://www.hackerrank.com/challenges/common-child/)         | [Solution Link](./String/CommonChild.ts)                     |
-| 3   | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/) | [Solution Link](./String/MarsExploration.ts)                 |
+| 2   | [Common Child](https://hackerrank.com/challenges/common-child/)             | [Solution Link](./String/CommonChild.ts)                     |
+| 3   | [Mars Exploration](https://hackerrank.com/challenges/mars-exploration/)     | [Solution Link](./String/MarsExploration.ts)                 |
+| 4   | [Design PDF Viewer](https://hackerrank.com/challenges/designer-pdf-viewer/) | [Solution Link](./Implementation/DesignPDFViewer.ts)         |
 
 _(More solutions will be added regularly!)_
 

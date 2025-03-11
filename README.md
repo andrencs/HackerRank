@@ -34,6 +34,7 @@ This repository serves as a **centralized collection** of my solutions to Hacker
 | 3   | [Mars Exploration](https://hackerrank.com/challenges/mars-exploration/)     | [Solution Link](./String/MarsExploration.ts)                 |
 | 4   | [Design PDF Viewer](https://hackerrank.com/challenges/designer-pdf-viewer/) | [Solution Link](./Implementation/DesignPDFViewer.ts)         |
 | 5   | [Utopian Tree](https://hackerrank.com/challenges/utopian-tree/)             | [Solution Link](./Implementation/UtopianTree.ts)             |
+| 6   | [Counting Valleys](https://hackerrank.com/challenges/counting-valleys)      | [Solution Link](./Implementation/CountingValleys.ts)         |
 
 _(More solutions will be added regularly!)_
 

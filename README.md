@@ -27,14 +27,15 @@ This repository serves as a **centralized collection** of my solutions to Hacker
 
 ## 📝 Solutions List
 
-| #   | Challenge                                                                   | Solution                                                     |
-| --- | --------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| 1   | [Fibonacci Modified](https://hackerrank.com/challenges/fibonacci-modified/) | [Solution Link](./Dynamic%20programing/FibonacciModified.ts) |
-| 2   | [Common Child](https://hackerrank.com/challenges/common-child/)             | [Solution Link](./String/CommonChild.ts)                     |
-| 3   | [Mars Exploration](https://hackerrank.com/challenges/mars-exploration/)     | [Solution Link](./String/MarsExploration.ts)                 |
-| 4   | [Design PDF Viewer](https://hackerrank.com/challenges/designer-pdf-viewer/) | [Solution Link](./Implementation/DesignPDFViewer.ts)         |
-| 5   | [Utopian Tree](https://hackerrank.com/challenges/utopian-tree/)             | [Solution Link](./Implementation/UtopianTree.ts)             |
-| 6   | [Counting Valleys](https://hackerrank.com/challenges/counting-valleys)      | [Solution Link](./Implementation/CountingValleys.ts)         |
+| #   | Challenge                                                                            | Solution                                                     |
+| --- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1   | [Fibonacci Modified](https://hackerrank.com/challenges/fibonacci-modified/)          | [Solution Link](./Dynamic%20programing/FibonacciModified.ts) |
+| 2   | [Common Child](https://hackerrank.com/challenges/common-child/)                      | [Solution Link](./String/CommonChild.ts)                     |
+| 3   | [Mars Exploration](https://hackerrank.com/challenges/mars-exploration/)              | [Solution Link](./String/MarsExploration.ts)                 |
+| 4   | [Design PDF Viewer](https://hackerrank.com/challenges/designer-pdf-viewer/)          | [Solution Link](./Implementation/DesignPDFViewer.ts)         |
+| 5   | [Utopian Tree](https://hackerrank.com/challenges/utopian-tree/)                      | [Solution Link](./Implementation/UtopianTree.ts)             |
+| 6   | [Counting Valleys](https://hackerrank.com/challenges/counting-valleys)               | [Solution Link](./Implementation/CountingValleys.ts)         |
+| 7   | [HackerRank in a String](https://hackerrank.com/challenges/hackerrank-in-a-string/p) | [Solution Link](./String/HackerRankInAString.ts)             |
 
 _(More solutions will be added regularly!)_
 

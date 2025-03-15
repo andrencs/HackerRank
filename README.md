@@ -37,6 +37,7 @@ This repository serves as a **centralized collection** of my solutions to Hacker
 | 6   | [Counting Valleys](https://hackerrank.com/challenges/counting-valleys)               | [Solution Link](./Implementation/CountingValleys.ts)         |
 | 7   | [HackerRank in a String](https://hackerrank.com/challenges/hackerrank-in-a-string/p) | [Solution Link](./String/HackerRankInAString.ts)             |
 | 8   | [Eletronics Shop](https://hackerrank.com/challenges/electronics-shop)                | [Solution link](./Implementation/EletronicsShop.ts)          |
+| 9   | [Making Anagrams](https://hackerrank.com/challenges/making-anagrams)                 | [Solution Link](./String/MakingAnagrams.ts)                  |
 
 _(More solutions will be added regularly!)_
 

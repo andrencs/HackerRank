@@ -32,16 +32,17 @@ This repository serves as a **centralized collection** of my solutions to Hacker
 | 1   | [Solve Me First](https://hackerrank.com/challenges/solve-me-first)                 | [Solution Link](./Prepare/Algorithms/Warmup/SolveMeFirst.ts)       |
 | 2   | [Simple Array sum](https://hackerrank.com/challenges/simple-array-sum)             | [Solution Link](./Prepare/Algorithms/Warmup/SimpleArraySum.ts)     |
 | 3   | [Compare The Triplets](https://hackerrank.com/challenges/compare-the-triplets)     | [Solution Link](./Prepare/Algorithms/Warmup/CompareTheTriplets.ts) |
-| 4   | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)             | [Solution Link](./Prepare/Algorithms/Warmup/AVeryBigSum.ts)        |
-| 5   | [Fibonacci Modified](https://hackerrank.com/challenges/fibonacci-modified)         | [Solution Link](./Dynamic%20programing/FibonacciModified.ts)       |
-| 6   | [Common Child](https://hackerrank.com/challenges/common-child)                     | [Solution Link](./String/CommonChild.ts)                           |
-| 7   | [Mars Exploration](https://hackerrank.com/challenges/mars-exploration)             | [Solution Link](./String/MarsExploration.ts)                       |
-| 8   | [Design PDF Viewer](https://hackerrank.com/challenges/designer-pdf-viewer)         | [Solution Link](./Implementation/DesignPDFViewer.ts)               |
-| 9   | [Utopian Tree](https://hackerrank.com/challenges/utopian-tree)                     | [Solution Link](./Implementation/UtopianTree.ts)                   |
-| 10  | [Counting Valleys](https://hackerrank.com/challenges/counting-valleys)             | [Solution Link](./Implementation/CountingValleys.ts)               |
-| 11  | [HackerRank in a String](https://hackerrank.com/challenges/hackerrank-in-a-string) | [Solution Link](./String/HackerRankInAString.ts)                   |
-| 12  | [Electronics Shop](https://hackerrank.com/challenges/electronics-shop)             | [Solution link](./Implementation/EletronicsShop.ts)                |
-| 13  | [Making Anagrams](https://hackerrank.com/challenges/making-anagrams)               | [Solution Link](./String/MakingAnagrams.ts)                        |
+| 4   | [A Very Big Sum](https://hackerrank.com/challenges/a-very-big-sum)                 | [Solution Link](./Prepare/Algorithms/Warmup/AVeryBigSum.ts)        |
+| 5   | [Diagonal Difference](https://hackerrank.com/challenges/diagonal-difference/)      | [Solution Link](./Prepare/Algorithms/Warmup/DiagonalDifference.ts) |
+| 6   | [Fibonacci Modified](https://hackerrank.com/challenges/fibonacci-modified)         | [Solution Link](./Dynamic%20programing/FibonacciModified.ts)       |
+| 7   | [Common Child](https://hackerrank.com/challenges/common-child)                     | [Solution Link](./String/CommonChild.ts)                           |
+| 8   | [Mars Exploration](https://hackerrank.com/challenges/mars-exploration)             | [Solution Link](./String/MarsExploration.ts)                       |
+| 9   | [Design PDF Viewer](https://hackerrank.com/challenges/designer-pdf-viewer)         | [Solution Link](./Implementation/DesignPDFViewer.ts)               |
+| 10  | [Utopian Tree](https://hackerrank.com/challenges/utopian-tree)                     | [Solution Link](./Implementation/UtopianTree.ts)                   |
+| 11  | [Counting Valleys](https://hackerrank.com/challenges/counting-valleys)             | [Solution Link](./Implementation/CountingValleys.ts)               |
+| 12  | [HackerRank in a String](https://hackerrank.com/challenges/hackerrank-in-a-string) | [Solution Link](./String/HackerRankInAString.ts)                   |
+| 13  | [Electronics Shop](https://hackerrank.com/challenges/electronics-shop)             | [Solution link](./Implementation/EletronicsShop.ts)                |
+| 14  | [Making Anagrams](https://hackerrank.com/challenges/making-anagrams)               | [Solution Link](./String/MakingAnagrams.ts)                        |
 
 _(More solutions will be added regularly!)_
 

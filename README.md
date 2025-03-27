@@ -27,28 +27,29 @@ This repository serves as a **centralized collection** of my solutions to Hacker
 
 ## 📝 Solutions List
 
-| #   | Challenge                                                                          | Solution                                                               |
-| --- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 1   | [Solve Me First](https://hackerrank.com/challenges/solve-me-first)                 | [Solution Link](./Prepare/Algorithms/Warmup/SolveMeFirst.ts)           |
-| 2   | [Simple Array sum](https://hackerrank.com/challenges/simple-array-sum)             | [Solution Link](./Prepare/Algorithms/Warmup/SimpleArraySum.ts)         |
-| 3   | [Compare The Triplets](https://hackerrank.com/challenges/compare-the-triplets)     | [Solution Link](./Prepare/Algorithms/Warmup/CompareTheTriplets.ts)     |
-| 4   | [A Very Big Sum](https://hackerrank.com/challenges/a-very-big-sum)                 | [Solution Link](./Prepare/Algorithms/Warmup/AVeryBigSum.ts)            |
-| 5   | [Diagonal Difference](https://hackerrank.com/challenges/diagonal-difference/)      | [Solution Link](./Prepare/Algorithms/Warmup/DiagonalDifference.ts)     |
-| 6   | [Plus Minus](https://hackerrank.com/challenges/plus-minus/)                        | [Solution Link](./Prepare/Algorithms/Warmup/PlusMinus.ts)              |
-| 7   | [Staircase](https://hackerrank.com/challenges/staircase/)                          | [Solution Link](./Prepare/Algorithms/Warmup/Staircase.ts)              |
-| 8   | [Min Max Sum](https://hackerrank.com/challenges/mini-max-sum)                      | [Solution Link](./Prepare/Algorithms/Warmup/MinMaxSum.ts)              |
-| 9   | [Time Conversion](https://hackerrank.com/challenges/time-conversion)               | [Solution Link](./Prepare/Algorithms/Warmup/TimeConversion.ts)         |
-| 10  | [Grading](https://hackerrank.com/challenges/grading)                               | [Solution Link](./Prepare/Algorithms/Implementation/Grading.ts)        |
-| 11  | [Apple and Orange](https://hackerrank.com/challenges/apple-and-orange)             | [Solution Link](./Prepare/Algorithms/Implementation/AppleAndOrange.ts) |
-| 11  | [Fibonacci Modified](https://hackerrank.com/challenges/fibonacci-modified)         | [Solution Link](./Dynamic%20programing/FibonacciModified.ts)           |
-| 12  | [Common Child](https://hackerrank.com/challenges/common-child)                     | [Solution Link](./String/CommonChild.ts)                               |
-| 13  | [Mars Exploration](https://hackerrank.com/challenges/mars-exploration)             | [Solution Link](./String/MarsExploration.ts)                           |
-| 14  | [Design PDF Viewer](https://hackerrank.com/challenges/designer-pdf-viewer)         | [Solution Link](./Implementation/DesignPDFViewer.ts)                   |
-| 15  | [Utopian Tree](https://hackerrank.com/challenges/utopian-tree)                     | [Solution Link](./Implementation/UtopianTree.ts)                       |
-| 16  | [Counting Valleys](https://hackerrank.com/challenges/counting-valleys)             | [Solution Link](./Implementation/CountingValleys.ts)                   |
-| 17  | [HackerRank in a String](https://hackerrank.com/challenges/hackerrank-in-a-string) | [Solution Link](./String/HackerRankInAString.ts)                       |
-| 18  | [Electronics Shop](https://hackerrank.com/challenges/electronics-shop)             | [Solution link](./Implementation/EletronicsShop.ts)                    |
-| 19  | [Making Anagrams](https://hackerrank.com/challenges/making-anagrams)               | [Solution Link](./String/MakingAnagrams.ts)                            |
+| #   | Challenge                                                                          | Solution                                                               |     |
+| --- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --- |
+| 1   | [Solve Me First](https://hackerrank.com/challenges/solve-me-first)                 | [Solution Link](./Prepare/Algorithms/Warmup/SolveMeFirst.ts)           |     |
+| 2   | [Simple Array sum](https://hackerrank.com/challenges/simple-array-sum)             | [Solution Link](./Prepare/Algorithms/Warmup/SimpleArraySum.ts)         |     |
+| 3   | [Compare The Triplets](https://hackerrank.com/challenges/compare-the-triplets)     | [Solution Link](./Prepare/Algorithms/Warmup/CompareTheTriplets.ts)     |     |
+| 4   | [A Very Big Sum](https://hackerrank.com/challenges/a-very-big-sum)                 | [Solution Link](./Prepare/Algorithms/Warmup/AVeryBigSum.ts)            |     |
+| 5   | [Diagonal Difference](https://hackerrank.com/challenges/diagonal-difference/)      | [Solution Link](./Prepare/Algorithms/Warmup/DiagonalDifference.ts)     |     |
+| 6   | [Plus Minus](https://hackerrank.com/challenges/plus-minus/)                        | [Solution Link](./Prepare/Algorithms/Warmup/PlusMinus.ts)              |     |
+| 7   | [Staircase](https://hackerrank.com/challenges/staircase/)                          | [Solution Link](./Prepare/Algorithms/Warmup/Staircase.ts)              |     |
+| 8   | [Min Max Sum](https://hackerrank.com/challenges/mini-max-sum)                      | [Solution Link](./Prepare/Algorithms/Warmup/MinMaxSum.ts)              |     |
+| 9   | [Time Conversion](https://hackerrank.com/challenges/time-conversion)               | [Solution Link](./Prepare/Algorithms/Warmup/TimeConversion.ts)         |     |
+| 10  | [Grading](https://hackerrank.com/challenges/grading)                               | [Solution Link](./Prepare/Algorithms/Implementation/Grading.ts)        |     |
+| 11  | [Apple and Orange](https://hackerrank.com/challenges/apple-and-orange)             | [Solution Link](./Prepare/Algorithms/Implementation/AppleAndOrange.ts) |     |
+| 12  | [Between Two Sets](https://hackerrank.com/challenges/between-two-sets)             | [Solution Link](./Prepare/Algorithms/Implementation/BetweenTwoSets.ts) | \*  |
+| 11  | [Fibonacci Modified](https://hackerrank.com/challenges/fibonacci-modified)         | [Solution Link](./Dynamic%20programing/FibonacciModified.ts)           |     |
+| 12  | [Common Child](https://hackerrank.com/challenges/common-child)                     | [Solution Link](./String/CommonChild.ts)                               |     |
+| 13  | [Mars Exploration](https://hackerrank.com/challenges/mars-exploration)             | [Solution Link](./String/MarsExploration.ts)                           |     |
+| 14  | [Design PDF Viewer](https://hackerrank.com/challenges/designer-pdf-viewer)         | [Solution Link](./Implementation/DesignPDFViewer.ts)                   |     |
+| 15  | [Utopian Tree](https://hackerrank.com/challenges/utopian-tree)                     | [Solution Link](./Implementation/UtopianTree.ts)                       |     |
+| 16  | [Counting Valleys](https://hackerrank.com/challenges/counting-valleys)             | [Solution Link](./Implementation/CountingValleys.ts)                   |     |
+| 17  | [HackerRank in a String](https://hackerrank.com/challenges/hackerrank-in-a-string) | [Solution Link](./String/HackerRankInAString.ts)                       |     |
+| 18  | [Electronics Shop](https://hackerrank.com/challenges/electronics-shop)             | [Solution link](./Implementation/EletronicsShop.ts)                    |     |
+| 19  | [Making Anagrams](https://hackerrank.com/challenges/making-anagrams)               | [Solution Link](./String/MakingAnagrams.ts)                            |     |
 
 _(More solutions will be added regularly!)_
 

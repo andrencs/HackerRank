@@ -42,15 +42,16 @@ This repository serves as a **centralized collection** of my solutions to Hacker
 | 11  | [Apple and Orange](https://hackerrank.com/challenges/apple-and-orange)                               | [Solution Link](./Prepare/Algorithms/Implementation/AppleAndOrange.ts)              |
 | 12  | [Between Two Sets](https://hackerrank.com/challenges/between-two-sets)                               | [Solution Link](./Prepare/Algorithms/Implementation/BetweenTwoSets.ts)              |
 | 13  | [Breaking Best And Worst Records](https://hackerrank.com/challenges/breaking-best-and-worst-records) | [Solution Link](./Prepare/Algorithms/Implementation/BreakingBestAndWorstRecords.ts) |
-| 14  | [Fibonacci Modified](https://hackerrank.com/challenges/fibonacci-modified)                           | [Solution Link](./Dynamic%20programing/FibonacciModified.ts)                        |
-| 15  | [Common Child](https://hackerrank.com/challenges/common-child)                                       | [Solution Link](./String/CommonChild.ts)                                            |
-| 16  | [Mars Exploration](https://hackerrank.com/challenges/mars-exploration)                               | [Solution Link](./String/MarsExploration.ts)                                        |
-| 17  | [Design PDF Viewer](https://hackerrank.com/challenges/designer-pdf-viewer)                           | [Solution Link](./Implementation/DesignPDFViewer.ts)                                |
-| 18  | [Utopian Tree](https://hackerrank.com/challenges/utopian-tree)                                       | [Solution Link](./Implementation/UtopianTree.ts)                                    |
-| 19  | [Counting Valleys](https://hackerrank.com/challenges/counting-valleys)                               | [Solution Link](./Implementation/CountingValleys.ts)                                |
-| 20  | [HackerRank in a String](https://hackerrank.com/challenges/hackerrank-in-a-string)                   | [Solution Link](./String/HackerRankInAString.ts)                                    |
-| 21  | [Electronics Shop](https://hackerrank.com/challenges/electronics-shop)                               | [Solution link](./Implementation/EletronicsShop.ts)                                 |
-| 22  | [Making Anagrams](https://hackerrank.com/challenges/making-anagrams)                                 | [Solution Link](./String/MakingAnagrams.ts)                                         |
+| 14  | [The Birthday Bar](https://hackerrank.com/challenges/the-birthday-bar/)                              | [Solution Link](./Prepare/Algorithms/Implementation/TheBirthdayBar.ts)              |
+| 15  | [Fibonacci Modified](https://hackerrank.com/challenges/fibonacci-modified)                           | [Solution Link](./Dynamic%20programing/FibonacciModified.ts)                        |
+| 16  | [Common Child](https://hackerrank.com/challenges/common-child)                                       | [Solution Link](./String/CommonChild.ts)                                            |
+| 17  | [Mars Exploration](https://hackerrank.com/challenges/mars-exploration)                               | [Solution Link](./String/MarsExploration.ts)                                        |
+| 18  | [Design PDF Viewer](https://hackerrank.com/challenges/designer-pdf-viewer)                           | [Solution Link](./Implementation/DesignPDFViewer.ts)                                |
+| 19  | [Utopian Tree](https://hackerrank.com/challenges/utopian-tree)                                       | [Solution Link](./Implementation/UtopianTree.ts)                                    |
+| 20  | [Counting Valleys](https://hackerrank.com/challenges/counting-valleys)                               | [Solution Link](./Implementation/CountingValleys.ts)                                |
+| 21  | [HackerRank in a String](https://hackerrank.com/challenges/hackerrank-in-a-string)                   | [Solution Link](./String/HackerRankInAString.ts)                                    |
+| 22  | [Electronics Shop](https://hackerrank.com/challenges/electronics-shop)                               | [Solution link](./Implementation/EletronicsShop.ts)                                 |
+| 23  | [Making Anagrams](https://hackerrank.com/challenges/making-anagrams)                                 | [Solution Link](./String/MakingAnagrams.ts)                                         |
 
 _(More solutions will be added regularly!)_
 

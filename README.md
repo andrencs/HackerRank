@@ -49,15 +49,16 @@ This repository serves as a **centralized collection** of my solutions to Hacker
 | 18  | [Bill Division](https://hackerrank.com/challenges/bon-appetit)                            | [Solution Link](./Prepare/Algorithms/Implementation/BonAppetit.ts)                  |
 | 19  | [Sales by Match](https://hackerrank.com/challenges/sock-merchant)                         | [Solution Link](./Prepare/Algorithms/Implementation/SockMerchant.ts)                |
 | 20  | [Drawing Book](https://hackerrank.com/challenges/drawing-book)                            | [Solution Link](./Prepare/Algorithms/Implementation/PageCount.ts)                   |
-| 21  | [Fibonacci Modified](https://hackerrank.com/challenges/fibonacci-modified)                | [Solution Link](./Dynamic%20programing/FibonacciModified.ts)                        |
-| 22  | [Common Child](https://hackerrank.com/challenges/common-child)                            | [Solution Link](./String/CommonChild.ts)                                            |
-| 23  | [Mars Exploration](https://hackerrank.com/challenges/mars-exploration)                    | [Solution Link](./String/MarsExploration.ts)                                        |
-| 24  | [Design PDF Viewer](https://hackerrank.com/challenges/designer-pdf-viewer)                | [Solution Link](./Implementation/DesignPDFViewer.ts)                                |
-| 25  | [Utopian Tree](https://hackerrank.com/challenges/utopian-tree)                            | [Solution Link](./Implementation/UtopianTree.ts)                                    |
-| 26  | [Counting Valleys](https://hackerrank.com/challenges/counting-valleys)                    | [Solution Link](./Implementation/CountingValleys.ts)                                |
-| 27  | [HackerRank in a String](https://hackerrank.com/challenges/hackerrank-in-a-string)        | [Solution Link](./String/HackerRankInAString.ts)                                    |
-| 28  | [Electronics Shop](https://hackerrank.com/challenges/electronics-shop)                    | [Solution link](./Implementation/EletronicsShop.ts)                                 |
-| 29  | [Making Anagrams](https://hackerrank.com/challenges/making-anagrams)                      | [Solution Link](./String/MakingAnagrams.ts)                                         |
+| 21  | [Counting Valleys](https://hackerrank.com/challenges/counting-valleys)                    | [Solution Link](./Prepare/Algorithms/Implementation/CountingValleys.ts)             |
+| 22  | [Fibonacci Modified](https://hackerrank.com/challenges/fibonacci-modified)                | [Solution Link](./Dynamic%20programing/FibonacciModified.ts)                        |
+| 24  | [Common Child](https://hackerrank.com/challenges/common-child)                            | [Solution Link](./String/CommonChild.ts)                                            |
+| 25  | [Mars Exploration](https://hackerrank.com/challenges/mars-exploration)                    | [Solution Link](./String/MarsExploration.ts)                                        |
+| 26  | [Design PDF Viewer](https://hackerrank.com/challenges/designer-pdf-viewer)                | [Solution Link](./Implementation/DesignPDFViewer.ts)                                |
+| 27  | [Utopian Tree](https://hackerrank.com/challenges/utopian-tree)                            | [Solution Link](./Implementation/UtopianTree.ts)                                    |
+| 28  | [Counting Valleys](https://hackerrank.com/challenges/counting-valleys)                    | [Solution Link](./Implementation/CountingValleys.ts)                                |
+| 29  | [HackerRank in a String](https://hackerrank.com/challenges/hackerrank-in-a-string)        | [Solution Link](./String/HackerRankInAString.ts)                                    |
+| 30  | [Electronics Shop](https://hackerrank.com/challenges/electronics-shop)                    | [Solution link](./Implementation/EletronicsShop.ts)                                 |
+| 31  | [Making Anagrams](https://hackerrank.com/challenges/making-anagrams)                      | [Solution Link](./String/MakingAnagrams.ts)                                         |
 
 _(More solutions will be added regularly!)_
 

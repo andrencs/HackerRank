@@ -1,6 +1,4 @@
 function breakingRecords(scores: number[]): number[] {
-  // Write your code here
-
   const records = [0, 0];
   let min = scores[0];
   let max = scores[0];
